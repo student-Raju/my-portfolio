@@ -29,10 +29,10 @@ const Hero = () => {
         <TextGenerateEffect
           className="text-center text-[40px]
           md:text-5xl lg:text-6xl"
-          words="Transforming Concepts into Seamless User Experience"
+          words="Crafting Seamless User Experiences: Unveiling the Magic of Web Development"
         />
         <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg:text-2xl">
-          Hi,I&apos;m Raju, React js Developer
+          Hi,I&apos;m Rajgopal Mahata, a frontend developer proficient in React JS and Next JS
         </p>
         <a href="#about">
             <MagicButton

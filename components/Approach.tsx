@@ -9,19 +9,15 @@ const Approach=()=>{
     <section className="w-full py-20">
         <h1 className="heading"> My <span className="text-purple">approach</span></h1>
       <div className="my-20 flex flex-col lg:flex-row items-center justify-center gap-4">
-        <Card title="Planning & Strategy" icon={<AceternityIcon order="Phase 1" />}
-        description="We'll collaborate to map out your website's goals, target audience, 
-        and key functionalities. We'll discuss things like site structure, 
-        navigation, and content requirements.">
+        <Card title="Plan and Design" icon={<AceternityIcon order="Phase 1" />}
+        description="Outline the project requirements, create wireframes or mockups to visualize the UI/UX, and plan the application's architecture. This helps in clarifying the project scope, layout, and functionality.">
           <CanvasRevealEffect
             animationSpeed={5.1}
             containerClassName="bg-emerald-900"
           />
         </Card>
-        <Card title="Development & Progress Update"icon={<AceternityIcon order="phase 2" />}
-        description="Once we agree on the plan, I cue my lofi playlist and dive into
-        coding. From initial sketches to polished code, I keep you updated
-        every step of the way.">
+        <Card title="Set Up Development Environment"icon={<AceternityIcon order="phase 2" />}
+        description="Ensure you have a stable development environment. Install necessary tools such as Node.js, npm or yarn for package management, and set up a code editor with relevant plugins for React and Next.js development. Configure any additional tools or libraries you plan to use.">
           <CanvasRevealEffect
             animationSpeed={3}
             containerClassName="bg-black"
@@ -33,10 +29,8 @@ const Approach=()=>{
           />
         
         </Card>
-        <Card title="Development & Launch"icon={<AceternityIcon order="phase 3" />}
-        description="This is where the magic happens! Based on the approved design, 
-        I'll translate everything into functional code, building your website
-        from the ground up.">
+        <Card title="Define Project Structure and State Management"icon={<AceternityIcon order="phase 3" />}
+        description="Establish a clear folder structure for organizing your codebase in both React.js and Next.js. Decide on state management approaches (like Redux, React Context API, or built-in Next.js features) and set up initial configurations. This ensures consistency and scalability as your project evolves.">
           <CanvasRevealEffect
             animationSpeed={3}
             containerClassName="bg-sky-600"
