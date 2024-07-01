@@ -104,37 +104,46 @@ export const projects = [
   },
 ];
 
+
 export const testimonials = [
   {
     quote:
-     "Working with Raju was a fantastic experience. His professionalism, quick response times, and commitment to delivering top-notch results were clear throughout our project. Raju's passion for every aspect of development really shines through. If you want to improve your website and boost your brand, Raju is the perfect partner.",
+      
+"Collaborating with Raju was a great experience. His professionalism, promptness, and dedication to   delivering  quality results were evident throughout our project. Raju's enthusiasm for every aspect of development truly stands out. If you're looking to enhance your website and brand, Raju is the perfect partner, even as a fresher.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-     "Working with Raju was a fantastic experience. His professionalism, quick response times, and commitment to delivering top-notch results were clear throughout our project. Raju's passion for every aspect of development really shines through. If you want to improve your website and boost your brand, Raju is the perfect partner.",
+      
+"Collaborating with Raju was a great experience. His professionalism, promptness, and dedication to delivering quality results were evident throughout our project. Raju's enthusiasm for every aspect of development truly stands out. If you're looking to enhance your website and brand, Raju is the perfect partner, even as a fresher.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-     "Working with Raju was a fantastic experience. His professionalism, quick response times, and commitment to delivering top-notch results were clear throughout our project. Raju's passion for every aspect of development really shines through. If you want to improve your website and boost your brand, Raju is the perfect partner.",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-     "Working with Raju was a fantastic experience. His professionalism, quick response times, and commitment to delivering top-notch results were clear throughout our project. Raju's passion for every aspect of development really shines through. If you want to improve your website and boost your brand, Raju is the perfect partner.",
+      
+"Collaborating with Raju was a great experience. His professionalism, promptness, and dedication to delivering quality results were evident throughout our project. Raju's enthusiasm for every aspect of development truly stands out. If you're looking to enhance your website and brand, Raju is the perfect partner, even as a fresher.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Working with Raju was a fantastic experience. His professionalism, quick response times, and commitment to delivering top-notch results were clear throughout our project. Raju's passion for every aspect of development really shines through. If you want to improve your website and boost your brand, Raju is the perfect partner.",
+      
+"Collaborating with Raju was a great experience. His professionalism, promptness, and dedication to delivering quality results were evident throughout our project. Raju's enthusiasm for every aspect of development truly stands out. If you're looking to enhance your website and brand, Raju is the perfect partner, even as a fresher.",
+    name: "Michael Johnson",
+    title: "Director of AlphaStream Technologies",
+  },
+  {
+    quote:
+     
+"Collaborating with Raju was a great experience. His professionalism, promptness, and dedication to delivering quality results were evident throughout our project. Raju's enthusiasm for every aspect of development truly stands out. If you're looking to enhance your website and brand, Raju is the perfect partner, even as a fresher.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
 ];
+
+  
 
 export const companies = [
   {
