@@ -84,7 +84,7 @@ export const projects = [
     des: "Welcome to Shop Bazaar! Your one-stop destination for all your cosmetic need.",
     img: "/p2.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
-    link: "https://github.com/student-Raju/shopping-bazaar",
+    link: "https://shopping-bazaar.vercel.app/",
   },
   {
     id: 3,
@@ -92,7 +92,7 @@ export const projects = [
     des: "The Ultimate Pokedex: Your Guide to Every Pokemon",
     img: "/p3.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg"],
-    link: "https://github.com/student-Raju/pokemon",
+    link: "https://pokemon-mocha-beta.vercel.app/",
   },
   {
     id: 4,
