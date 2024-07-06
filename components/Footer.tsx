@@ -12,7 +12,7 @@ const Footer = () => {
              <h1 className="heading lg:max-w-[45vw]">
                 Ready to take <span className="text-purple">your</span> digital presence to the next level?
              </h1>
-             <p className="text-white-200 md:mt-10 my-5 text-center">Reach out to me today and Let&apos;s discuss how I can help you achieve your goals</p>
+             <p className="text-white-200 md:mt-10 my-5 text-center">Let&apos;s connect! I&apos;m eager to contribute and grow as a developer, helping you achieve your goals.</p>
              <a href="rajgopalmahata@gmail.com">
                 <MagicButton
                 title="Let's get in touch"
@@ -40,4 +40,4 @@ const Footer = () => {
   )
 }
 
-export default Footer
+export default Footer;
