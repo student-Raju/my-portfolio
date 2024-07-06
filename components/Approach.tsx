@@ -20,7 +20,7 @@ const Approach=()=>{
         description="Ensure you have a stable development environment. Install necessary tools such as Node.js, npm or yarn for package management, and set up a code editor with relevant plugins for React and Next.js development. Configure any additional tools or libraries you plan to use.">
           <CanvasRevealEffect
             animationSpeed={3}
-            containerClassName="bg-black"
+            containerClassName="bg-red"
             colors={[
               [236, 72, 153],
               [232, 121, 249],
