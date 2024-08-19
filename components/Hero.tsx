@@ -32,7 +32,7 @@ const Hero = () => {
           words="Crafting Seamless User Experiences: Unveiling the Magic of Web Development"
         />
         <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg:text-2xl">
-          Hi,I&apos;m Rajgopal Mahata, a frontend developer proficient in React JS and Next JS
+          Hi,I&apos;m Rajgopal Mahata, a frontend developer proficient in React JS 
         </p>
         <a href="#about">
             <MagicButton
